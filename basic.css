@@ -1,0 +1,14 @@
+
+body{
+background-color: red;
+background-color: pink;
+background-color: blanchedalmond;
+}
+
+
+.image{
+	position: center;
+	border: 5px;
+	border-radius: 3px solid red;
+
+}
